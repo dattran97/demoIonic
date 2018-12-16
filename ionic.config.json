@@ -1,0 +1,8 @@
+{
+  "name": "HCMUSTodo",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "91a85e76"
+}
